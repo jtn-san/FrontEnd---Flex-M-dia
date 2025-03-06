@@ -3,9 +3,10 @@
 
 
 🛠️ Tecnologias Utilizadas
-HTML5: Estruturação do conteúdo.
-CSS3: Estilização e design responsivo.
-<!--JavaScript: Funcionalidades interativas e de acessibilidade.-->
+- **HTML5**: Estruturação do conteúdo.  
+- **CSS3**: Estilização e design responsivo.  
+
+<!--- **JavaScript**: Funcionalidades interativas e de acessibilidade.  .-->
 
 ![siteFlexMedia](https://github.com/user-attachments/assets/1f471b54-8949-4835-afab-6498c777632b)
 
