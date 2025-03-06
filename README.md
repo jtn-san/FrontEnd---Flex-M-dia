@@ -12,7 +12,7 @@
 
 
 ## 🔗 Acesse o Projeto  
-[Link do site](#) // Por vir...  
+[Link do site](https://jtn-san.github.io/FrontEnd-FlexMedia/) 
 
 ---
 
